@@ -1,0 +1,190 @@
+{
+  "TICKET_SEARCH": {
+    "TITLE": "Complaint Search",
+    "COMPLAIN": "Add Complaint"
+  },
+  "GLOBAL": {
+    "REMEMBER_ME": "Remember me",
+    "START_RATING": "Start Rating",
+    "TICKET_NUMBER": "Complaint Number",
+    "PHONE_NUMBER": "Phone Number",
+    "RESET": "Reset",
+    "SEARCH": "Search",
+    "Follow_Ticket": "Follow Complaint",
+    "TICKET_STATUS": {
+      "RESOLVED": "Resolved"
+    },
+    "FIELD_TYPE": {
+      "CHARS": "Characters",
+      "NUMBERS": "Numbers",
+      "CHARS_NUMBERS": "Characters and Numbers"
+    },
+    "DETAILS": "Details",
+    "TICKET_TYPE": "Complaint Type",
+    "TICKET_QUESTION": {
+      "TITLE": "Is your ticket solved?",
+      "PRIMARY": "Product",
+      "SECONDARY": "Sub Reason"
+    },
+    "TICKET_RATING": {
+      "ADD": "Add Rating"
+    },
+    "EMAIL": "Email",
+    "NAME": "Name",
+    "ID": {
+      "TYPE": "ID Type",
+      "NUMBER": "ID Number"
+    },
+    "CONFIRMATION_CODE": {
+      "TITLE": "Confirmation Code",
+      "RESEND": "Resend",
+      "CHECK": "Check Code"
+    },
+    "TYPE": "Type",
+    "MAIN_REASON": "Main Reason",
+    "main_reason_other": "Main Reason Other",
+    "SUB_REASON": "Sub Reason",
+    "SECTORS": "Sector",
+    "COUNTRY": "Country",
+    "CITY": "City",
+    "REGION": "Region",
+    "SEND": "Send",
+    "BIRTHDATE": "Birthdate",
+    "ATTACHMENTS": "Attachments",
+    "ATTACHMENTS_PLACEHOLDER": "Choose Attachments",
+    "ATTACHMENTS_HINT": "You can upload images/PDF with limit of 2 MB per file and 5 files in total",
+    "RATING": "Rating",
+    "YES": "Yes",
+    "NO": "No",
+    "REPLY": "Add Reply",
+    "MESSAGE": "Message",
+    "CHOOSE": "Choose",
+    "USER_DUPLICATE_TICKETS": "Complaints found with same criteria",
+    "FINE": "Fine number",
+    "REQUIRED_HINT": "All (<sup><i style='font-size: 6px;' class='fa fa-asterisk required'></i></sup>) are required",
+    "SECTOR_REPLY": "Organization Reply",
+    "OTB_Send": "Send",
+    "validate": "Verify",
+    "otp": "Mobile Verification",
+    "CHANGE_STATUS": "Change Status",
+    "COMMENT": "Comment",
+    "TERMS": "I agree to terms & conditions",
+    "TermsHeader": "Terms & conditions"
+  },
+  "TICKET_DETAILS": {
+    "TITLE": "Complaint Details",
+    "MY_TICKETS": {
+      "TITLE": "My Complaints",
+      "TAB2": "Similar Complaints"
+    },
+    "REPLIES": {
+      "TITLE": "Replies",
+      "REPLY": {
+        "SENT_BY": "Sender:",
+        "MESSAGE": "Message:"
+      }
+    }
+  },
+  "CONTACT_US": {
+    "TITLE": "Contact Us",
+    "COMMUNICATE": "Complaint",
+    "CODE": "Code",
+    "WORK_TIME": "Work Time",
+    "RESPONSE_TIME": "Response Time"
+  },
+  "COMMON_QUESTIONS": {
+    "TITLE": "Common Questions"
+  },
+  "KNOWLEDGE_BASE": {
+    "SUBTITLE": "Search Subjects"
+  },
+  "VALIDATIONS": {
+    "REQUIRED": "{{field}} is required",
+    "PHONE_NUMBER": "Phone Number is not valid",
+    "NUMBER_ONLY": "{{field}} accepts numbers only",
+    "STRING_ONLY": "{{field}} accepts characters only",
+    "MIN_LENGTH": "{{field}} must be at least {{minLength}} {{fieldType}}",
+    "MAX_LENGTH": "{{field}} can't exceed {{maxLength}} {{fieldType}}",
+    "PATTERN": "{{field}} must follow {{pattern}}"
+  },
+  "COMMON": {
+    "NOT_AUTHORIZED": "You can't access this page"
+  },
+  "TOAST": {
+    "SUCCESS": {
+      "TITLE": "Success",
+      "TICKET_SUBMIT": {
+        "MESSAGE": "Complaint Added Successfully"
+      },
+      "RATING": {
+        "MESSAGE": "Rating Stored Successfully"
+      },
+      "CHANGE_STATUS": {
+        "MESSAGE": "Status Changed Successfully"
+      }
+    },
+    "ERROR": {
+      "TITLE": "Error",
+      "TICKET_SUBMIT": {
+        "MESSAGE": "Error Adding Complaint"
+      },
+      "RATING": {
+        "MESSAGE": "Error Storing Rating"
+      },
+      "SEARCH": {
+        "MESSAGE": "Error Searching"
+      },
+      "CHANGE_STATUS": {
+        "MESSAGE": "Failed To change status"
+      }
+    }
+  },
+  "EMPTY_STATE": {
+    "KNOWLEDGE_BASE": "No Common questions found"
+  },
+  "Mobile_Verified": "Mobile Verified",
+  "code_will_expire_after": "Code will expire after",
+  "second": "second",
+  "BackToMainSite": "Back to Main Site",
+  "feedbackHint": "Please note, Complaint feedback available only for {{field}} days from solving ticket date",
+  "auto_close_msg": "The ticket has been closed by the system because you did not send required information",
+  "maintenance": "Website Under Maintenance",
+  "LOGIN": "Login",
+  "EMAIL": "Email",
+  "MOBILE": "Mobile",
+  "NATIONAL_ID": "National Id",
+  "PASSWORD": "Password",
+  "REMEMBER_ME": "Remember me",
+  "FORGET_PASSWORD": "Forget password",
+  "VERIFICATION_CODE_SENT": "OTP sent to your {{way}}",
+  "CODE_WILL_BE_EXPIRED_IN": "Code Will Be Expired in",
+  "SECOND": "Second",
+  "RESEND_CODE": "Resend",
+  "VERIFY_CODE": "Verify",
+  "NO_TICKETS": "No Complaints Available",
+  "User_Profile": "User Profile",
+  "updated_Successfully": "Updated Successfully",
+  "Server Error": "Please check Your Internet service, No Internet Connection",
+  "enter_verify_code": "Enter verification code",
+  "emptyFilterMessage": "No results found",
+  "Choose": "Choose",
+  "GENDER": "Gender",
+  "FEMALE": "Female",
+  "MALE": "Male",
+  "CANCEL": "Cancel",
+  "ESCALATE": "Escalate",
+  "CLOSE": "Close",
+  "createAccount": "Create Account",
+  "BACK": "Back",
+  "esclation_msg": "If the final solution is not accepted, please contact the judicial committees",
+  "National/Iqama ID": "National/Iqama ID",
+  "National/Iqama ID PH": "Enter your National/Iqama ID here",
+  "login": "Login",
+  "Download Nafath App": "Download Nafath App",
+  "NafathOtpMsg": "Please open Nafath application and confirm the request",
+  "CAPATCHA_CODE": "Captcha Code",
+  "nafathStatusMsg": "Request Status :",
+  "WAITING" : "Waiting",  "EXPIRED" : "Expired", "REJECTED" :"Rejected","COMPLETED": "Completed",
+  "National/Iqama ID Validation": "National/Iqama ID must be 10 Numbers",
+  "CLIENT":"Client"
+}

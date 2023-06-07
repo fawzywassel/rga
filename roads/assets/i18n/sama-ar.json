@@ -1,0 +1,197 @@
+
+{
+  "TICKET_SEARCH": {
+    "TITLE": "بحث عن الشكوى",
+    "COMPLAIN": "إضافة شكوى جديدة"
+  },
+  "GLOBAL": {
+    "REMEMBER_ME": "تذكرني",
+    "START_RATING": "بدء التقييم",
+    "TICKET_NUMBER": "رقم الشكوى",
+    "PHONE_NUMBER": "رقم الجوال",
+    "RESET": "تفريغ الحقول",
+    "SEARCH": "بحث",
+    "Follow_Ticket": "تتبع شكواك",
+    "FIELD_TYPE": {
+      "CHARS": "أحرف",
+      "NUMBERS": "أرقام",
+      "CHARS_NUMBERS": "أرقام و حروف"
+    },
+    "TICKET_STATUS": {
+      "RESOLVED": "تم حلها"
+    },
+    "TICKET_TYPE": "نوع الشكوى:",
+    "TICKET_QUESTION": {
+      "TITLE": "هل انت راض عن مستوى الخدمة ؟",
+      "PRIMARY": "المنتج :",
+      "SECONDARY": "التصنيف الفرعي:"
+    },
+    "DETAILS": "التفاصيل",
+    "TICKET_RATING": {
+      "ADD": "إضافة تقييم"
+    },
+    "EMAIL": "البريد الالكتروني",
+    "NAME": "الاسم",
+    "ID": {
+      "TYPE": "نوع الهوية",
+      "NUMBER": "رقم الهوية"
+    },
+    "CONFIRMATION_CODE": {
+      "TITLE": "رقم التأكيد",
+      "RESEND": "إعادة ارسال",
+      "CHECK": "تحقق من الرقم"
+    },
+    "TYPE": "النوع",
+    "MAIN_REASON": "سبب الاتصال الرئيسي",
+    "main_reason_other": "سبب اتصال رئيسي آخر",
+    "SUB_REASON": "سبب الاتصال الفرعي",
+    "SECTORS": "جهة",
+    "COUNTRY": "الدولة",
+    "CITY": "المدينة",
+    "REGION": "المنطقة",
+    "SEND": "إرسال",
+    "BIRTHDATE": "تاريخ الميلاد",
+    "ATTACHMENTS": "المرفقات",
+    "ATTACHMENTS_PLACEHOLDER": "اختر الملفات",
+    "ATTACHMENTS_HINT": "يمكنك رفع صورة أو ملف PDF بحد أقصى 2 ميجابايت للملف الواحد بإجمالي 5 ملفات",
+    "RATING": "التقييم",
+    "YES": "نعم",
+    "NO": "لا",
+    "REPLY": "إضافة رد",
+    "MESSAGE": "الرسالة",
+    "CHOOSE": "اختر",
+    "USER_DUPLICATE_TICKETS": "يوجد شكاوى بنفس المدخلات",
+    "FINE": "رقم المخالفه",
+    "REQUIRED_HINT": "كل الحقول(<sup><i style='font-size: 6px;' class='fa fa-asterisk required'></i></sup>) مطلوبة",
+    "SECTOR_REPLY": "رد الجهة",
+    "OTB_Send": "ارسال الرمز",
+    "validate": "تحقق",
+    "otp": "التحقق من رقم الجوال",
+    "CHANGE_STATUS": "تغيير الحالة",
+    "COMMENT": "التعليق",
+    "TERMS": "موافق علي  شروط واتفاقية الاستخدام",
+    "TermsHeader": "شروط واتفاقية الاستخدام"
+  },
+  "TICKET_DETAILS": {
+    "TITLE": "تفاصيل الشكوى",
+    "MY_TICKETS": {
+      "TITLE": "شكاوى",
+      "TAB2": "شكاوى مشابهه"
+    },
+    "REPLIES": {
+      "TITLE": "الردود",
+      "REPLY": {
+        "SENT_BY": "مرسل من:",
+        "MESSAGE": "الرسالة:"
+      }
+    }
+  },
+  "CONTACT_US": {
+    "TITLE": "اتصل بنا",
+    "COMMUNICATE": "نموذج تقديم شكوى",
+    "CODE": "الرقم الموحد",
+    "WORK_TIME": "اوقات العمل",
+    "RESPONSE_TIME": "وقت الاستجابة"
+  },
+  "COMMON_QUESTIONS": {
+    "TITLE": "الأسئلة الشائعة"
+  },
+  "KNOWLEDGE_BASE": {
+    "SUBTITLE": "بحث الموضوعات"
+  },
+  "VALIDATIONS": {
+    "REQUIRED": "{{field}} مطلوب",
+    "PHONE_NUMBER": "رقم الجوال غير مطابق للدولة",
+    "NUMBER_ONLY": "{{field}} يقبل أرقام فقط",
+    "STRING_ONLY": "{{field}} يقبل حروف فقط",
+    "MIN_LENGTH": "{{field}}  يجب ان يكون على الاقل {{minLength}} {{fieldType}}",
+    "MAX_LENGTH": "{{field}} لا يمكن ان يتعدى {{maxLength}} {{fieldType}}",
+    "PATTERN": "{{field}} ان يكون {{pattern}}"
+  },
+  "COMMON": {
+    "NOT_AUTHORIZED": "لا يمكنك الدخول على هذه الصفحه"
+  },
+  "TOAST": {
+    "SUCCESS": {
+      "TITLE": "نجاح",
+      "TICKET_SUBMIT": {
+        "MESSAGE": "تمت إضافة الشكوى بنجاح"
+      },
+      "RATING": {
+        "MESSAGE": "تم تسجيل التقييم بنجاح"
+      },
+      "REPLY": {
+        "MESSAGE": "تمت إضافة الرد بنجاح"
+      },
+      "CHANGE_STATUS": {
+        "MESSAGE": "تمت تعديل الحالة بنجاح"
+      }
+    },
+    "ERROR": {
+      "TITLE": "فشل",
+      "TICKET_SUBMIT": {
+        "MESSAGE": "خطأ فى إضافة الشكوى"
+      },
+      "RATING": {
+        "MESSAGE": "خطأ فى تسجيل التقييم"
+      },
+      "REPLY": {
+        "MESSAGE": "خطأ فى إضافة الرد"
+      },
+      "SEARCH": {
+        "MESSAGE": "خطأ فى البحث"
+      },
+      "CHANGE_STATUS": {
+        "MESSAGE": "خطأ أثناء تعديل الصلاحية "
+      }
+    }
+  },
+  "EMPTY_STATE": {
+    "KNOWLEDGE_BASE": "لا توجد أسئلة شائعة"
+  },
+  "Mobile_Verified": "تم التحقق بنجاح",
+  "code_will_expire_after": "ستنتهي صلاحية الكود بعد",
+  "second": "ثانية",
+  "BackToMainSite": "العوده الي الموقع",
+  "feedbackHint": "يرجى ملاحظة ان تقييم العميل للشكوى متاح لمدة {{field}} يوم من تاريخ حل الشكوى وشكرا",
+  "auto_close_msg": " تم غلق الشكوى بواسطة النظام بسبب عدم ارسالك  للمعلومات المطلوبة خلال الفترة المحددة",
+  "maintenance": "الموقع تحت الصيانة",
+  "LOGIN": "تسجيل الدخول",
+  "EMAIL": "البريد الالكتروني",
+  "MOBILE": "الهاتف الجوال",
+  "NATIONAL_ID": "رقم الهوية",
+  "PASSWORD": "كلمة السر",
+  "REMEMBER_ME": "تذكرني",
+  "FORGET_PASSWORD": "نسيت كلمة السر؟",
+  "VERIFICATION_CODE_SENT": "تم ارسال كود التحقيق على {{way}}",
+  "CODE_WILL_BE_EXPIRED_IN": "ستنتهي صلاحية الكود بعد",
+  "SECOND": "ثانيه",
+  "RESEND_CODE": "إعادة ارسال",
+  "VERIFY_CODE": "تحقق من الرقم",
+  "NO_TICKETS": "لا توجد شكاوى ",
+  "User_Profile": "الملف الشخصي",
+  "updated_Successfully": "تم التحديث بنجاح",
+  "Server Error": "برجاء التحقق من خدمة الانترنت لديكم لا يوجد اتصال",
+  "enter_verify_code": "إدخل كود التحقيق",
+  "Choose": "اختر",
+  "emptyFilterMessage": "لا توجد نتائج",
+  "GENDER": "النوع",
+  "FEMALE": "أنثي",
+  "MALE": "ذكر",
+  "CANCEL": "سحب",
+  "ESCALATE": "تصعيد",
+  "CLOSE": "إغلاق",
+  "createAccount": "انشاء حساب",
+  "BACK": "رجوع",
+  "esclation_msg": "فى حال عدم قبول الحل النهائي يرجى التواصل مع اللجان القضائية",
+  "National/Iqama ID": "رقم بطاقة الأحوال/الاقامة",
+  "National/Iqama ID PH": "ادخل رقم الاحوال/ الاقامة الخاص بك هنا",
+  "Download Nafath App": "لتحميل تطبيق نفاذ",
+  "login": "تسجيل الدخول",
+  "NafathOtpMsg": "الرجاء فتح تطبيق نفاذ وتأكيد الطلب بإختيار الرقم أعلاه",
+  "CAPATCHA_CODE": "كود التحقق",
+  "nafathStatusMsg": "حالة الطلب :",
+  "WAITING" : "الانتظار",  "EXPIRED" : "انتهي وقت الطلب", "REJECTED" :"مرفوض","COMPLETED": "مقبول",
+  "National/Iqama ID Validation": "رقم بطاقة الأحوال/الاقامة يجب أن يكون ١٠ أرقام",
+  "CLIENT": "العميل"
+}

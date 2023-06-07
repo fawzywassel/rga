@@ -1,0 +1,82 @@
+/*
+ * identity: olive
+ * ----------
+ */
+
+.skin .sidebar-menu > li:hover > a,
+.skin .sidebar-menu > li.active > a,
+.main-footer {
+  color: #ffffff;
+    background: #1E7B37;
+}
+
+.skin .treeview-menu > li.active > a,
+.skin .treeview-menu > li > a:hover {
+  color: #1E7B37;
+}
+
+.content-header > .breadcrumb > li > a {
+  color: #1E7B37;
+}
+
+.btn-success.focus, .btn-success:focus{
+  background-color: #1E7B37
+}
+.btn-success {
+  background-color: #1E7B37;
+}
+.nav-stacked > li.active > a,
+.nav-stacked > li.active > a:hover {
+  border-right-color: #1E7B37;
+}
+.nav-tabs-custom > .nav-tabs > li.active > a,
+.nav-tabs-custom > .nav-tabs > li.active:hover > a {
+  background-color: #fff;
+  color: #fff;
+  background-color: #1E7B37;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover{
+  color: #1E7B37;
+}
+.kn-save-link:hover,.kn-save-link:active,.kn-save-link:focus{
+  color: #1E7B37
+}
+input:checked + .switch-slider:before {
+  background-color: #1E7B37;
+}
+.work-days .btn.active, .work-days .btn:active, .work-days input:checked {
+  background-color: #1E7B37;
+  color: #fff;
+}
+.report-box:hover{
+  color: #1E7B37;
+}
+.media-box.active,.media-box:active,.media-box:hover,.media-box:focus {
+  border: 5px solid #1E7B37;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+}
+a {
+  color: #1E7B37;
+}
+.text-green,#contactUs .table th {
+  color: #1E7B37 !important;
+}
+.btn-success.focus, .btn-success:focus{
+  background-color: #1E7B37
+}
+.btn-success {
+  background-color: #1E7B37;
+}
+.btn-success:hover,
+.btn-success:active,
+.btn-success.hover{
+  background-color: #1E7B37 !important;
+}
+
+.bg-theme-color2{
+  background-color: #1E7B37;
+  color: #ffffff !important;
+}
+.text-theme-color2{
+  color: #1E7B37 !important;
+}

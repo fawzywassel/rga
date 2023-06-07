@@ -1,0 +1,19 @@
+{
+  "baseAPIURL": "https://938crm.mot.gov.sa/hollat_upgrade/public",
+  "image": "https://938crm.mot.gov.sa/hollat_upgrade/public",
+  "client": "sama",
+  "allowedExtensions": [
+    "png",
+    "jpg",
+    "pdf"
+  ],
+  "const_allowedExtensionsValues": [
+    "jpg",
+    "jpeg",
+    "png",
+    "bmp",
+    "gif",
+    "pdf"
+  ],
+  "maxAllowedSizeIn_MB": 2
+}
